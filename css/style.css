@@ -67,6 +67,7 @@ input {
 }
 
 button {
+    color:black;
     font-family: 'Public Sans', sans-serif;
     font-size: 14pt;
     font-weight: 300;
