@@ -64,6 +64,10 @@ input {
     font-family: 'Public Sans', sans-serif;
     font-size: 14pt;
     font-weight: 300;
+    background-color: #f0f0f0;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    padding: 5px;
 }
 
 button {
@@ -74,6 +78,6 @@ button {
     background-color: #f0f0f0;
     border: 1px solid lightgrey;
     border-radius: 4px;
-    padding: 3px;
+    padding: 5px;
 }
 
