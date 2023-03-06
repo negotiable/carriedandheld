@@ -51,6 +51,21 @@ p {
 }
 
 a {
+    color:black;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+.divchange { 
+    display: inline-block;
+    cursor: pointer;
+    font-family: 'Public Sans', sans-serif;
+    color: black;
+    font-weight: 500;
+  
+  }
+
+strong {
     color: black;
     font-weight: 500;
 }
